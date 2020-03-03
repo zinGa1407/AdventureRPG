@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#Ignore Asset Package bundle of Creatures - Very Large Files
+/[Aa]ssets/Asset Packs/
+/[Aa]ssets/Asset Packs.meta
